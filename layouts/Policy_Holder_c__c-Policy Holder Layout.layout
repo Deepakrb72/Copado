@@ -18,6 +18,7 @@
                 <behavior>Edit</behavior>
                 <field>DOB_c__c</field>
             </layoutItems>
+            
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Gender_c__c</field>
